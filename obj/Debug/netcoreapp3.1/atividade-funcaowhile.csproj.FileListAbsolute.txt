@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\bin\Debug\netcoreapp3.1\atividade-funcaowhile.exe
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\bin\Debug\netcoreapp3.1\atividade-funcaowhile.deps.json
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\bin\Debug\netcoreapp3.1\atividade-funcaowhile.runtimeconfig.json
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\bin\Debug\netcoreapp3.1\atividade-funcaowhile.runtimeconfig.dev.json
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\bin\Debug\netcoreapp3.1\atividade-funcaowhile.dll
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\bin\Debug\netcoreapp3.1\atividade-funcaowhile.pdb
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\obj\Debug\netcoreapp3.1\atividade-funcaowhile.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\obj\Debug\netcoreapp3.1\atividade-funcaowhile.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\obj\Debug\netcoreapp3.1\atividade-funcaowhile.AssemblyInfo.cs
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\obj\Debug\netcoreapp3.1\atividade-funcaowhile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\obj\Debug\netcoreapp3.1\atividade-funcaowhile.dll
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\obj\Debug\netcoreapp3.1\atividade-funcaowhile.pdb
+C:\Users\fic\Desktop\andre\atividade-funcaowhile\obj\Debug\netcoreapp3.1\atividade-funcaowhile.genruntimeconfig.cache
